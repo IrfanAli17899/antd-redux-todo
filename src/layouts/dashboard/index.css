@@ -1,0 +1,8 @@
+.demo-logo-vertical{
+    background-color:grey ;
+    margin: 20px auto !important;
+    height: 40px;
+    width: 80%;
+    display: block;
+    border-radius: 5px;
+}
